@@ -1,5 +1,5 @@
 {
-  "name": "airportinfo",
+  "name": "faa-info",
   "version": "1.0.0",
   "description": "track FAA Airport status",
   "main": "index.js",
